@@ -23,5 +23,13 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awerock/Pulsometr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Awerock/Pulsometr/issues"
+  },
+  "homepage": "https://github.com/Awerock/Pulsometr#readme"
 }
